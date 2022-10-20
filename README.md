@@ -12,21 +12,21 @@ Create a database for a digital platform that hosts artists’ work, the platfor
 
 # Project Structures
 ## Task 1: Able to identify the entities in project description
-1) Identify Entities:
+Identify Entities:
  * Artist
  * Work
  * Review
  * Reviewer
  
 ## Task 2: Able to identify attributes and their data types from a description
-2) Identify Attributes:
+Identify Attributes:
  * Artist => artistID, artistName, DOB, artistTitle
  * Work => workID, workName, workLink, workDescription
  * Reviewer => reviewerID, DOB, reviewerTitle, reviewerName
  * Review => reviewID, reviewComment, reviewRating
  
 ## Task 3: Able to analyze the description and extract the relations between the entities
-3) Identify Data Type:
+Identify Data Type:
  * Artist:
  *  artistID => CHAR(5) with 'AR' and three random numbers 
  *  artistName => VARCHAR(20) 
