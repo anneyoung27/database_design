@@ -27,28 +27,29 @@ Create a database for a digital platform that hosts artists’ work, the platfor
  
 ## Task 3: Able to analyze the description and extract the relations between the entities
 3) Identify Data Type:
- * - Artist:
+ * Artist:
  *  artistID => CHAR(5) with 'AR' and three random numbers 
  *  artistName => VARCHAR(20) 
  *  DOB => DATE 
  *  artistTitle => VARCHAR(50)
  * 
- * - Work:
+ * Work:
  *  workID => CHAR(5) with 'WK' and three random numbers
  *  workName => VARCHAR(20)
  *  workLink => VARCHAR(50)
  *  workDescription => VARCHAR(100)
  * 
- * - Reviewer:
+ * Reviewer:
  *  reviewerID => CHAR(5) with 'RR' and three random numbers 
  *  DOB => DATE 
  *  reviewerTitle => VARCHAR(50)
  *  reviewerName => VARCHAR(20)
  * 
- * - Review:
+ * Review:
  *  reviewID => CHAR(5) with 'RW' and three random numbers 
  *  reviewComment => VARCHAR(255)
  *  reviewRating => INT (only 1-5) 
+ 
 ## Task 4: Able to create a database and tables in the database
 
 ## Task 5: Able to populate a database through SQL insert statements 
