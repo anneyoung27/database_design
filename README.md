@@ -32,19 +32,19 @@ Identify Data Type:
  *  artistName => VARCHAR(20) 
  *  DOB => DATE 
  *  artistTitle => VARCHAR(50)
- * 
+ 
  * Work:
  *  workID => CHAR(5) with 'WK' and three random numbers
  *  workName => VARCHAR(20)
  *  workLink => VARCHAR(50)
  *  workDescription => VARCHAR(100)
- * 
+ 
  * Reviewer:
  *  reviewerID => CHAR(5) with 'RR' and three random numbers 
  *  DOB => DATE 
  *  reviewerTitle => VARCHAR(50)
  *  reviewerName => VARCHAR(20)
- * 
+ 
  * Review:
  *  reviewID => CHAR(5) with 'RW' and three random numbers 
  *  reviewComment => VARCHAR(255)
