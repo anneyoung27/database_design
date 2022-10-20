@@ -1,4 +1,4 @@
-# Description
+# Project Description
 Create a database for a digital platform that hosts artists’ work, the platform offers a chance for artists to market their work by displaying their talents. 
 
 # Objectives
