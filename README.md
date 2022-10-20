@@ -13,10 +13,11 @@ Create a database for a digital platform that hosts artists’ work, the platfor
 # Project Structures
 ## Task 1: Able to identify the entities in project description
 Identify Entities:
- * Artist
- * Work
- * Review
- * Reviewer
+ - Artist
+ - Work
+ - Review
+ - Reviewer
+ 
  
 ## Task 2: Able to identify attributes and their data types from a description
 Identify Attributes:
@@ -33,17 +34,20 @@ Identify Data Type:
  *  DOB => DATE 
  *  artistTitle => VARCHAR(50)
  
+ 
  * Work:
  *  workID => CHAR(5) with 'WK' and three random numbers
  *  workName => VARCHAR(20)
  *  workLink => VARCHAR(50)
  *  workDescription => VARCHAR(100)
  
+ 
  * Reviewer:
  *  reviewerID => CHAR(5) with 'RR' and three random numbers 
  *  DOB => DATE 
  *  reviewerTitle => VARCHAR(50)
  *  reviewerName => VARCHAR(20)
+ 
  
  * Review:
  *  reviewID => CHAR(5) with 'RW' and three random numbers 
