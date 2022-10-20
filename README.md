@@ -11,8 +11,6 @@ Create a database for a digital platform that hosts artists’ work, the platfor
 - SQL Server Management Studio
 
 # Project Structures
-
-# The hands on project on Database Design with SQL Server Management Studio (SSMS) is divided into following tasks:
 Task 1: Able to identify the entities in project description
 
 Task 2: Able to identify attributes and their data types from a description
