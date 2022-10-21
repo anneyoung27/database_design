@@ -9,6 +9,7 @@ Create a database for a digital platform that hosts artists’ work, the platfor
 # Technology & Software
 - Microsoft SQL Server
 - SQL Server Management Studio
+- Visual Paradigm
 
 # Project Structures
 ## Task 1: Able to identify the entities in project description
